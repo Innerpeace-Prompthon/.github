@@ -24,7 +24,7 @@
 ## 📫 연락
 
 - 서비스 문의:
-- GitHub Organization: [https://github.com/innerpeace](https://github.com/innerpeace-org)
+- GitHub Organization: [https://github.com/innerpeace](https://github.com/Innerpeace-Prompthon?view_as=public)
 
 ---
 
